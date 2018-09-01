@@ -40,7 +40,7 @@
 				<li class="active"><a href="blog.php">Blog</a></li>
 				<li><a href="#">About Us</a></li>
 				<li><a href="#">Services</a></li>
-				<li><a href="#">Contact Us</a></li>
+				<li><a href="mail.php">Contact Us</a></li>
 				<li><a href="adminlogin.php">Feature</a></li>
 				
 			</ul>
